@@ -31,13 +31,13 @@ Para a construção do projeto, utilizaremos as versões mais recentes das ferra
 ### 1. Clonando o Repositório
 
 ```bash
-git ---
-cd ---
+git clone https://github.com/matheusfly/fast_api_master
+cd fast_api
 ```
 ### 2. Ativando pyenv
 
 ´´´bash
-pyenv global 3.12.4   
+pyenv global 3.12.4
 ´´´
 
 ### 3. Instalando e Ativando o Poetry
